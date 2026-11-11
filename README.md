@@ -1,0 +1,1 @@
+A modern Real-Time Chat Application that allows users to communicate instantly through live messaging. Designed with a clean, responsive, and user-friendly interface to provide a seamless chatting experience.
